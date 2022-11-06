@@ -8,7 +8,6 @@ import io
 from fastapi.security import HTTPBasic, HTTPBasicCredentials
 import secrets
 import datetime
-import credentials
 import os
 
 app = FastAPI()
